@@ -18,7 +18,7 @@ My core stack is **HTML5, CSS3, JavaScript, and WordPress**, plus **Three.js and
 
 ## Selected client & application projects
 
-- **Obrabank** — client web project (case study in preparation).
+- **Obrabank** — client web project ([visit website](https://www.obrabank.com.br/); case study in preparation).
 - **SeMudando** — responsive web experience: [semudando.com.br](https://semudando.com.br/).
 - **QR Code Generator** — private Flask/Python application for branded and batch QR code generation.
 - **Renault Koleos** — interactive prototype for a vehicle pre-reservation journey.
